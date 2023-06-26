@@ -1,0 +1,35 @@
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\ProjetoFinal - EF Core.exe
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\ProjetoFinal - EF Core.deps.json
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\ProjetoFinal - EF Core.runtimeconfig.json
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\ProjetoFinal - EF Core.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\ProjetoFinal - EF Core.pdb
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Humanizer.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\obj\Debug\net7.0\ProjetoFinal - EF Core.csproj.AssemblyReference.cache
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\obj\Debug\net7.0\ProjetoFinal - EF Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\obj\Debug\net7.0\ProjetoFinal - EF Core.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\obj\Debug\net7.0\ProjetoFinal - EF Core.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\obj\Debug\net7.0\ProjetoFinal - EF Core.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\obj\Debug\net7.0\ProjetoFinal - EF Core.csproj.CopyComplete
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\obj\Debug\net7.0\ProjetoFinal - EF Core.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\obj\Debug\net7.0\refint\ProjetoFinal - EF Core.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\obj\Debug\net7.0\ProjetoFinal - EF Core.pdb
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\obj\Debug\net7.0\ProjetoFinal - EF Core.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\ProjetoFinal\obj\Debug\net7.0\ref\ProjetoFinal - EF Core.dll
